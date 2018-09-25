@@ -1,6 +1,11 @@
+ignition-gui (1.0.0~pre2-1~bionic) bionic; urgency=medium
+
+  * ignition-gui 1.0.0~pre2-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Mon, 24 Sep 2018 20:51:05 -0700
+
 ignition-gui (1.0.0~pre1-1~bionic) bionic; urgency=medium
 
   * ignition-gui 1.0.0~pre1-1 release
 
  -- Nate Koenig <nate@osrfoundation.org>  Tue, 11 Sep 2018 12:50:22 -0700
-
