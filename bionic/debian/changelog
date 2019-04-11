@@ -1,23 +1,6 @@
-ignition-gui (1.0.0-1~bionic) bionic; urgency=medium
+ignition-gui2 (1.999.999-1~bionic) bionic; urgency=medium
 
-  * ignition-gui 1.0.0-1 release
+  * ignition-gui2 1.999.999-1 release
 
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 01 Mar 2019 19:52:39 +0100
+ -- Louise Poubel <louise@openrobotics.org>  Tue, 09 Apr 2019 00:00:00 -0700
 
-ignition-gui (1.0.0~pre3-1~bionic) bionic; urgency=medium
-
-  * ignition-gui 1.0.0~pre3-1 release
-
- -- Ian Chen <ichen@osrfoundation.org>  Thu, 27 Dec 2018 12:41:26 -0800
-
-ignition-gui (1.0.0~pre2-1~bionic) bionic; urgency=medium
-
-  * ignition-gui 1.0.0~pre2-1 release
-
- -- Nate Koenig <nate@osrfoundation.org>  Mon, 24 Sep 2018 20:51:05 -0700
-
-ignition-gui (1.0.0~pre1-1~bionic) bionic; urgency=medium
-
-  * ignition-gui 1.0.0~pre1-1 release
-
- -- Nate Koenig <nate@osrfoundation.org>  Tue, 11 Sep 2018 12:50:22 -0700

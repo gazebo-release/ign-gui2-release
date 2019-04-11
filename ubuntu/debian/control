@@ -1,4 +1,4 @@
-Source: ignition-gui
+Source: ignition-gui2
 Standards-Version: 3.9.8
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -23,15 +23,15 @@ Build-Depends: cmake,
                libignition-math6-dev,
                libignition-common3-events-dev,
                libignition-plugin-dev,
-               libignition-rendering-ogre1-dev,
+               libignition-rendering2-ogre1-dev,
                libignition-tools-dev,
-               libignition-transport6-dev,
-               libignition-msgs3-dev
-Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-gui-release
-Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-gui-release
+               libignition-transport7-dev,
+               libignition-msgs4-dev
+Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-gui2-release
+Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-gui2-release
 Homepage: http://ignitionrobotics.org/
 
-Package: libignition-gui
+Package: libignition-gui2
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -41,7 +41,7 @@ Description: Ignition Gui classes and functions for robot apps - Shared library
   Ignition Gui is a component in the ignition framework, a set of libraries
   designed to rapidly develop robot applications.
 
-Package: libignition-gui-dev
+Package: libignition-gui2-dev
 Architecture: any
 Section: libdevel
 Depends: libtinyxml2-dev,
@@ -60,12 +60,12 @@ Depends: libtinyxml2-dev,
          libignition-cmake2-dev,
          libignition-math6-dev,
          libignition-common3-events-dev,
-         libignition-transport6-dev,
+         libignition-transport7-dev,
          libignition-plugin-dev,
-         libignition-rendering-ogre1-dev,
+         libignition-rendering2-ogre1-dev,
          libignition-tools-dev,
-         libignition-msgs3-dev,
-         libignition-gui (= ${binary:Version}),
+         libignition-msgs4-dev,
+         libignition-gui2 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Gui classes and functions for robot apps - Development files
