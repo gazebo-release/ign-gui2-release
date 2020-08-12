@@ -1,3 +1,9 @@
+ignition-gui2 (2.3.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gui2 2.3.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Tue, 11 Aug 2020 18:20:03 -0700
+
 ignition-gui2 (2.2.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui2 2.2.0-1 release
