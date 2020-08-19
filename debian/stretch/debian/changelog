@@ -1,3 +1,9 @@
+ignition-gui2 (2.3.2-1~stretch) stretch; urgency=medium
+
+  * ignition-gui2 2.3.2-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Wed, 19 Aug 2020 12:27:12 -0700
+
 ignition-gui2 (2.3.1-1~stretch) stretch; urgency=medium
 
   * ignition-gui2 2.3.1-1 release
